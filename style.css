@@ -3,9 +3,3 @@ body{
     background-color: #463F3A;
 
 }
-
-div.scroll{
-    overflow-y: auto;
-    overflow-x: hidden;
-    
-}
